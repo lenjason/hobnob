@@ -1,0 +1,30 @@
+.ui.mainmenu.container {
+  background-image: url(http://courses.ics.hawaii.edu/ics314f17/morea/ui-frameworks/hobnob-background.jpg);
+  box-shadow: none;
+  border: none;
+}
+
+.ui.topmenu.menu{
+  background-color: transparent;
+  box-shadow: none;
+  border: none;
+
+}
+
+ui.borderless.middle.middlemenu.inverted.container {
+  background-color: transparent;
+  padding-bottom: 800px;
+  color: #ffffff;
+}
+
+#select {
+  border: 4px solid white;
+}
+
+#text1 {
+  color: #ffffff;
+}
+
+#text2 {
+  color: #ffffff;
+}
